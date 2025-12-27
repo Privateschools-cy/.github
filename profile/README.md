@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../image.png" alt="PrivateSchools.cy logo" width="360" />
+  <img src="../logo.png" alt="PrivateSchools.cy logo" width="360" />
 </p>
 
 # PrivateSchools.cy
